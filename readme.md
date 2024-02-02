@@ -62,7 +62,7 @@ barcode.show()
 barcode.save("code39.png")
 ```
 
-Algorithme pour générer le code-barres [Code39](https://fr.wikipedia.org/wiki/Code_39).
+Algorithme pour générer le code-barres Code39
 
 <img src="wiki/code39_write.png" alt="image" width="600">
 
@@ -83,7 +83,7 @@ decoded_data = decoder.decode()
 print(decoded_data)
 ```
 
-Algorithme pour lire le code-barres [Code39](https://fr.wikipedia.org/wiki/Code_39).
+Algorithme pour lire le code-barres Code39
 
 <img src="wiki/code39_read.png" alt="image" width="600">
 
@@ -123,7 +123,7 @@ barcode.show()
 barcode.save("code128.png")
 ```
 
-Algorithme pour générer le code-barres [Code128](https://fr.wikipedia.org/wiki/Code_128).
+Algorithme pour générer le code-barres Code128
 
 <img src="wiki/code128_write.png" alt="image" width="600">
 
