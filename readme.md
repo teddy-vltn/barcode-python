@@ -71,10 +71,10 @@ Le script [`code39_reader.py`] contient la classe [`Code39BarcodeDecoder`] qui p
 Voici comment utiliser cette classe :
 
 ```python
-from code39_reader import Code39BarcodeDecoder
+from code39_reader import Code39BarcodeReader
 
 # Créer une instance de la classe avec le chemin vers l'image du code-barres
-decoder = Code39BarcodeDecoder("code39.png")
+decoder = Code39BarcodeReader("code39.png")
 
 # Décoder le code-barres
 decoded_data = decoder.decode()
