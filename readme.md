@@ -66,7 +66,7 @@ Algorithme pour générer le code-barres Code39
 
 <img src="wiki/code39_write.png" alt="image" width="600">
 
-Le script [`code39_reader.py`] contient la classe [`Code39BarcodeDecoder`] qui permet de lire un code-barres Code39 à partir d'une image.
+Le script [`code39_reader.py`] contient la classe [`Code39BarcodeReader`] qui permet de lire un code-barres Code39 à partir d'une image.
 
 Voici comment utiliser cette classe :
 
