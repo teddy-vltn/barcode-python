@@ -55,3 +55,4 @@ class Code39BarcodeGenerator:
             self.image.show()
         else:
             print("Aucun code-barres généré.")
+

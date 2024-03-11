@@ -2,7 +2,6 @@
 
 Ce projet contient des scripts Python pour générer et lire des codes-barres Code39 et un script pour générer des codes-barres Code128.
 
-
 ## Remarque 
 
 Ce projet devait à l'origine être un projet plus ambitieux : un système d'inventaire à base de codes-barres utilisant le téléphone portable comme scanner. Cependant, il a été réduit à un simple générateur et lecteur de codes-barres pour des raisons de temps et de complexité. Malgré l'existence de librairies pour la lecture de codes-barres, j'ai préféré ne pas les utiliser pour des raisons de compréhension et d'apprentissage. Mais également, pour des raisons de maîtrise de la lecture, les librairies de codes-barres ne permettent pas d'identifier le type de code-barre, ce qui était un point important pour mon projet initial de système d'inventaire à base de codes-barres. De plus, la plupart des librairies de lecture de codes-barres sont payantes.
